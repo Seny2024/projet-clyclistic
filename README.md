@@ -11,6 +11,7 @@ L'objectif principal est de fournir à Cyclistic une solution analytique robuste
 - **gitattributes** : Fichier de configuration pour Git, précisant les attributs spécifiques du dépôt.
 - **Projet-Cyclistic.twbx** : Le tableau de bord de Tableau Packaged Workbook, contenant des visualisations interactives sur les données de Cyclistic.
 - **Stakeholder Requirements Document.pdf** : Un document listant les exigences des parties prenantes, y compris les indicateurs clés de performance (KPI) et les attentes du projet.
+- **Project Requirements Document.pdf** : Document qui définit les spécifications détaillées et les besoins techniques pour la mise en œuvre du projet BI, y compris l'infrastructure, les sources de données et les outils BI à utiliser.
 - **Strategy document.pdf** : Un document détaillant la stratégie adoptée pour le déploiement de la solution BI, incluant les méthodes d'analyse des données, les algorithmes utilisés et les visualisations prévues.
 
 ## Prérequis
